@@ -15,7 +15,7 @@ our $metadata = {
     date_authored   => '2020-07-22',
     date_updated    => '2022-09-28',
     minimum_version => '18.11',
-    maximum_version => undef,
+    maximum_version => '21.11',
     version         => $VERSION,
 };
 
